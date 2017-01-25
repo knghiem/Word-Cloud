@@ -1,0 +1,10 @@
+!!!IMPORTANT: This program only works on PCs
+------------------------------------------------------
+I used the simple read file code: inputFile=open(fname,'r')
+text=inputFile.read()
+Therefore, it cannot read some text files
+------------------------------------------------------
+To test this program, feel free to put in crazy input
+Number of words can be like 100000 
+
+
